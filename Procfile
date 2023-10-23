@@ -1,0 +1,1 @@
+web: gunicorn belvo_backend.wsgi
